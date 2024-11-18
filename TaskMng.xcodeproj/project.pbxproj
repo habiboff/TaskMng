@@ -62,7 +62,6 @@
 		258B05C52CEB6FAC00A9CF67 /* TaskMng */ = {
 			isa = PBXGroup;
 			children = (
-				258B05DD2CEB6FC100A9CF67 /* Base */,
 				258B05DC2CEB6FBC00A9CF67 /* UI */,
 				258B05DB2CEB6FB500A9CF67 /* Data */,
 				258B05DA2CEB6FB200A9CF67 /* Root */,
@@ -96,16 +95,8 @@
 			isa = PBXGroup;
 			children = (
 				258B05DE2CEB6FCC00A9CF67 /* Presen */,
-				258B05DF2CEB6FCE00A9CF67 /* UIComponents */,
 			);
 			path = UI;
-			sourceTree = "<group>";
-		};
-		258B05DD2CEB6FC100A9CF67 /* Base */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Base;
 			sourceTree = "<group>";
 		};
 		258B05DE2CEB6FCC00A9CF67 /* Presen */ = {
@@ -116,19 +107,11 @@
 			path = Presen;
 			sourceTree = "<group>";
 		};
-		258B05DF2CEB6FCE00A9CF67 /* UIComponents */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = UIComponents;
-			sourceTree = "<group>";
-		};
 		258B05E02CEB6FD900A9CF67 /* Main */ = {
 			isa = PBXGroup;
 			children = (
 				258B05E42CEB6FE300A9CF67 /* Controller */,
 				258B05E32CEB6FE000A9CF67 /* ViewModel */,
-				258B05E22CEB6FDE00A9CF67 /* View */,
 				258B05E12CEB6FDC00A9CF67 /* Model */,
 			);
 			path = Main;
@@ -139,13 +122,6 @@
 			children = (
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		258B05E22CEB6FDE00A9CF67 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 		258B05E32CEB6FE000A9CF67 /* ViewModel */ = {
