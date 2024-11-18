@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "first": "James",
+        "last": "Jhonie",
+        "phone": "123-456-7890",
+        "email": "carson@example.com"
+    },
+    {
+        "id": 2,
+        "first": "Carson",
+        "last": "Gross",
+        "phone": "123-456-7890",
+        "email": "carson@example.com"
+    },
+    {
+        "id": 3,
+        "first": "",
+        "last": null,
+        "phone": "0123456789",
+        "email": "joe@example2.com"
+    },
+    {
+        "id": 5,
+        "first": "Joe",
+        "last": "Ted",
+        "phone": "123-456-7890",
+        "email": "joe@example.com"
+    },
+    {
+        "id": 6,
+        "first": "Maria",
+        "last": "Blows",
+        "phone": "123-456-7890",
+        "email": "joe1@example.com"
+    },
+    {
+        "id": 7,
+        "first": "Bob",
+        "last": "Blow",
+        "phone": "123-456-7890",
+        "email": "joe2@example.com"
+    },
+    {
+        "id": 8,
+        "first": "Joe",
+        "last": "Gross",
+        "phone": "123-456-7890",
+        "email": "joe3@example.com"
+    },
+    {
+        "id": 9,
+        "first": "Jim",
+        "last": "Golma",
+        "phone": "123-456-7890",
+        "email": "joe4@example.com"
+    },
+    
+    {
+        "id": 18,
+        "first": null,
+        "last": null,
+        "phone": "1234567776",
+        "email": null
+    },
+    {
+        "id": 19,
+        "first": null,
+        "phone": null
+    }
+]
